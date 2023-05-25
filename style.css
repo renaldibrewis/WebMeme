@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+
+#Picture{
+    border: 5px solid white;
+    width: 100%;
+}
+
+#Title{
+    margin-left: 10%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+#Caption{
+    margin-left: 10%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
